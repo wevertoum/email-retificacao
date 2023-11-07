@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+#emailContent {
+  display: none;
+}
+
+.email-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-email {
+  width: 500px;
+}
+
+.image-email {
+  font-size: 40px;
+  font-weight: bold;
+}
